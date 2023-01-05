@@ -1,0 +1,95 @@
+{
+  "type" : "recipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+        "item" : "ars_nouveau:sourcestone",
+        "count": "1"
+    }
+  ],
+  "alternate-output" : [
+    {
+        "item" : "ars_nouveau:smooth_sourcestone",
+        "count": 1
+    },
+    {
+        "item" : "ars_nouveau:sourcestone_basketweave",
+        "count": 1
+    },
+    {
+        "item" : "ars_nouveau:sourcestone_large_bricks",
+        "count": 1
+    },
+    {
+        "item" : "ars_nouveau:sourcestone_small_bricks",
+        "count": 1
+    },
+    {
+        "item" : "ars_nouveau:sourcestone_alternating",
+        "count": 1
+    },
+    {
+        "item" : "ars_nouveau:smooth_sourcestone_basketweave",
+        "count": 1
+    },
+    {
+        "item" : "ars_nouveau:smooth_sourcestone_mosaic",
+        "count": 1
+    },
+    {
+        "item" : "ars_nouveau:smooth_sourcestone_large_bricks",
+        "count": 1
+    },
+    {
+        "item" : "ars_nouveau:smooth_sourcestone_small_bricks",
+        "count": 1
+    },
+    {
+        "item" : "ars_nouveau:smooth_sourcestone_alternating",
+        "count": 1
+    },
+    {
+        "item" : "ars_nouveau:gilded_sourcestone_basketweave",
+        "count": 1
+    },
+    {
+        "item" : "ars_nouveau:gilded_sourcestone_mosaic",
+        "count": 1
+    },
+    {
+        "item" : "ars_nouveau:gilded_sourcestone_large_bricks",
+        "count": 1
+    },
+    {
+        "item" : "ars_nouveau:gilded_sourcestone_small_bricks",
+        "count": 1
+    },
+    {
+        "item" : "ars_nouveau:gilded_sourcestone_alternating",
+        "count": 1
+    },
+    {
+        "item" : "ars_nouveau:smooth_gilded_sourcestone_basketweave",
+        "count": 1
+    },
+    {
+        "item" : "ars_nouveau:smooth_gilded_sourcestone_mosaic",
+        "count": 1
+    },
+    {
+        "item" : "ars_nouveau:smooth_gilded_sourcestone_large_bricks",
+        "count": 1
+    },
+    {
+        "item" : "ars_nouveau:smooth_gilded_sourcestone_small_bricks",
+        "count": 1
+    },
+    {
+        "item" : "ars_nouveau:smooth_gilded_sourcestone_alternating",
+        "count": 1
+    }
+    ],
+  "result": "ars_nouveau:sourcestone_mosaic",
+  "count": 1,
+    "research-id": "archwoodcollective:arsnouveau/arscraftingrecipes"
+}

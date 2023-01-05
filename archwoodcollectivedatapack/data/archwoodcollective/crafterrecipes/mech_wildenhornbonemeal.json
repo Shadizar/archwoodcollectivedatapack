@@ -1,0 +1,13 @@
+{
+  "type" : "recipe",
+  "crafter": "mechanic_crafting",
+  "inputs": [
+    {
+        "item" : "ars_nouveau:wilden_horn",
+        "count": 1
+    }
+  ],
+  "result": "minecraft:bone_meal",
+  "count": 3,
+  "intermediate" : "minecraft:air"
+}

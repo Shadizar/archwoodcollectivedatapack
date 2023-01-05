@@ -1,0 +1,13 @@
+{
+  "branch": "minecolonies:arsnouveau",
+  "name": "Ars Crafting Recipes",
+  "researchLevel": 1,
+  "subtitle": "Unlocks automatically-learned Ars Nouveau crafting recipes. Really only exists to keep from cluttering your recipes if you are not doing an Ars Nouveau style.",
+  "icon": "ars_nouveau:relay",
+  "requirements": [
+    {
+      "item": "ars_nouveau:source_gem",
+      "quantity": 4
+    }
+  ]
+}
