@@ -1,6 +1,11 @@
 {
 "replace": false,
 "values": [
-    "ars_nouveau:potion_jar"
+    "ars_nouveau:potion_jar",
+    "ars_nouveau:agronomic_sourcelink",
+    "ars_nouveau:volcanic_sourcelink",
+    "ars_nouveau:mycelial_sourcelink",
+    "ars_nouveau:alchemical_sourcelink",
+    "ars_nouveau:vitalic_sourcelink"
   ]
 }
