@@ -4,28 +4,20 @@
   "inputs": [
     {
         "item" : "ars_nouveau:manipulation_essence",
-        "count": 1
+        "count": 3
     },
     {
-        "item" : "ars_nouveau:red_archwood_log",
+        "item" : "ars_nouveau:ritual_brazier",
         "count": 1
     },
     {
         "item" : "ars_nouveau:source_gem",
         "count": 8
-    },
-    {
-        "item" : "minecraft:gold_ingot",
-        "count": 2
-    },
-    {
-        "item" : "ars_nouveau:air_essence",
-        "count": 1
     }
   ],
-  "result": "ars_nouveau:wand",
+  "result": "ars_nouveau:brazier_relay",
   "count": 1,
   "intermediate" : "minecraft:air",
   "research-id": "archwoodcollective:arsnouveau/arscraftingrecipes",
-  "min-building-level": 2
+  "min-building-level": 3
 }
