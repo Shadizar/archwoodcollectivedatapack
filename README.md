@@ -1,3 +1,5 @@
+NOTE:  This is for 1.19.2 and 1.20.1; see my other repos for newer versions, and note that I split them to Biomes O Plenty and Ars Nouveau (The Ars one contains also the mage name pack)
+
 * Adds a name pack (if you are a Minecolonies patreon member of the appropriate tier) for minecolonies, for mage-like names
 
 * For all players, enables the colonists to craft necessary Ars Nouveau items,
