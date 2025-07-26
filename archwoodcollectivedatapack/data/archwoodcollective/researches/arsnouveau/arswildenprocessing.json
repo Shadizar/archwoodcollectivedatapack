@@ -3,9 +3,9 @@
   "name": "Ars Wilden Processing",
   "researchLevel": 1,
   "subtitle": "Unlocks processing wilden wings and horns into leather and bonemeal. Gated in research to prevent unintentional processing.",
-  "icon": "ars_nouveau:wilden_horn",
-  "requirements": [
+  "costs": [
     {
+      "type": "minecolonies:item_simple",
       "item": "ars_nouveau:source_gem",
       "quantity": 4
     }

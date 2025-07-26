@@ -4,9 +4,9 @@
   "parentResearch": "archwoodcollective:arsnouveau/arswildenprocessing",
   "researchLevel": 2,
   "subtitle": "Improves processing wilden wings and horns into leather and bonemeal.",
-  "icon": "ars_nouveau:wilden_wing",
-  "requirements": [
+  "costs": [
     {
+      "type": "minecolonies:item_simple",
       "item": "ars_nouveau:source_gem",
       "quantity": 64
     }
